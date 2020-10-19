@@ -16,22 +16,22 @@
 ### I am a Data Scientist with a background in Business, Marketing and Product.
 
 🔭 I’m currently working on: 
-  - <b> Wine quality prediction for Washington state 
-  - <b> Music composer (neural network)
-  - <b> Amazon Ads analytics & reporting dashboard
-  - <b> AI service that writes recommendations / cover letter 
+  - Wine quality prediction for Washington state 
+  - Music composer (neural network)
+  - Amazon Ads analytics & reporting dashboard
+  - AI service that writes recommendations / cover letter 
 
 
 🌱 I’m currently learning:
-  - <b> AWS Solutions Architect 
-  - <b> VR development
+  - AWS Solutions Architect 
+  - VR development
   
 
 ⚡ Some facts about me:
- - <b> I built my own marketing agency. 
- - <b> I have two cats. Their names are Meta and Script.
- - <b> I live in Seattle, but travel all around the world.
+ - I built my own marketing agency. 
+ - I have two cats. Their names are Meta and Script.
+ - I live in Seattle, but travel all around the world.
   
 
 📫 How to reach me:
- - <b> sokolova.js@gmail.com
+ - sokolova.js@gmail.com
