@@ -1,4 +1,4 @@
-## Hi! I'm Julia. I am a Data Scientist with a background in Business, Marketing and Product.
+## Hi! I'm Julia. 
   
 <p align="right"> <img src="https://github.com/JuliaSokolova/JuliaSokolova/blob/main/img.png"></p>
   
@@ -13,19 +13,25 @@
     <img src="https://img.shields.io/badge/EMAIL-sokolova.js@gmail.com-d44638?style=for-the-badge"/>
   </a>
 
+### I am a Data Scientist with a background in Business, Marketing and Product.
+
+🔭 I’m currently working on: 
+  - <b> Wine quality prediction for Washington state 
+  - <b> Music composer (neural network)
+  - <b> Amazon Ads analytics & reporting dashboard
+  - <b> AI service that writes recommendations / cover letter 
 
 
-<!--
-**JuliaSokolova/JuliaSokolova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning:
+  - <b> AWS Solutions Architect 
+  - <b> VR development
+  
 
-Here are some ideas to get you started:
+⚡ Some facts about me:
+ - <b> I built my own marketing agency. 
+ - <b> I have two cats. Their names are Meta and Script.
+ - <b> I live in Seattle, but travel all around the world.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+ - <b> sokolova.js@gmail.com
