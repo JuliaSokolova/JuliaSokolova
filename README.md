@@ -19,7 +19,7 @@
   - Wine quality prediction for Washington state 
   - Music composer (neural network)
   - Amazon Ads analytics & reporting dashboard
-  - AI service that writes recommendations / cover letter 
+  - AI service that writes recommendations / cover letters 
 
 
 🌱 I’m currently learning:
