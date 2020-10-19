@@ -1,8 +1,9 @@
 ## Hi! I'm Julia. I am a Data Scientist with a background in Business, Marketing and Product.
   
-<p align="right"> <img width=30%  src="https://github.com/JuliaSokolova/JuliaSokolova/blob/main/img.png"></p>
+<p align="right"> <img src="https://github.com/JuliaSokolova/JuliaSokolova/blob/main/img.png"></p>
   
 <!-- LinkedIn Contact -->
+<p align="center">
   <a href="https://www.linkedin.com/in/jsokolova/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-JULIA%20SOKOLOVA-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
